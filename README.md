@@ -21,6 +21,7 @@ you going to make an evenly focused full-stack application?*
 *5. What kind of users will visit your app? In other words, what is the demographic of
 your users?*
 - Any users who love to watch movies can access my website.
+  
 *6. What data do you plan on using? How are you planning on collecting your data?
 You may have not picked your actual API yet, which is fine, just outline what kind
 of data you would like it to contain. You are welcome to create your own API and
