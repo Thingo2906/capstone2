@@ -55,12 +55,12 @@ notoriously messy data.
 - Users can click the play button to watch the trailer of the movie.
 - Users can click to logout button to leave the website.
 # *f. What features make your site more than a CRUD app? What are your stretch goals?*
-- User Authentication and Profiles:
-+ Allow users to create accounts, log in, and have personalized profiles.
-+ Implement role-based access control to differentiate between regular users and administrators.
+## User Authentication and Profiles:
+- Allow users to create accounts, log in, and have personalized profiles.
+- Implement role-based access control to differentiate between regular users and administrators.
 
-- Advanced Search and Filters:
-+ Implement advanced search capabilities with filters and sorting options to help users find specific content.
+## Advanced Search and Filters:
+- Implement advanced search capabilities with filters and sorting options to help users find specific content.
 
-- Rich Text Editing Uploads:
-+ Allow users to create content with rich text formatting 
+## Rich Text Editing Uploads:
+- Allow users to create content with rich text formatting 
