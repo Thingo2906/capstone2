@@ -4,8 +4,8 @@
 React and Node for this project, however if you are extremely interested in
 becoming a Python developer you are welcome to use Python/Flask for this
 project.*
-- React for frontend.
-- Express for backend.
+- React for the front end.
+- Express for the backend.
 - PostgreSQL to store user database
   
 *2. Is the front-end UI or the back-end going to be the focus of your project? Or are
@@ -49,11 +49,11 @@ notoriously messy data.
 - Embed movie trailers using platforms like YouTube
 # *e. What will the user flow look like?*
 - Users start to register or login to the website
-- select a trending movies or search a movies by name.
+- select trending movies or search movies by name.
 - Users can add a movie to their list to watch later.
 - Users can read reviews of any movie from other users and state a review or reply to others.
-- Users can click play button to watch the trailer of the movie.
-- Users can click to logout button to leave the wesite.
+- Users can click the play button to watch the trailer of the movie.
+- Users can click to logout button to leave the website.
 # *f. What features make your site more than a CRUD app? What are your stretch goals?*
 - User Authentication and Profiles:
 + Allow users to create accounts, log in, and have personalized profiles.
